@@ -45,6 +45,7 @@
     "Django Server.news_paper.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -99,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719260602935</updated>
       <workItem from="1719260630232" duration="209000" />
-      <workItem from="1719290137140" duration="11526000" />
+      <workItem from="1719290137140" duration="13061000" />
     </task>
     <task id="LOCAL-00001" summary="firs commit">
       <option name="closed" value="true" />
