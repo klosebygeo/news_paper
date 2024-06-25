@@ -21,6 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-77v0+smww8**l^az9vk(-6k5!b9clf+vc=tadf0&di+dfb@=rm'
+ALLOWED_HOSTS = ['arcane-island-10195-a8ce14915c02.herokuapp.com']
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
